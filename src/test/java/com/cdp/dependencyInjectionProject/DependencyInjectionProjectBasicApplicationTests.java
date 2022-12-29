@@ -4,10 +4,9 @@ import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DependencyInjectionProjectApplicationTests {
-
+public class DependencyInjectionProjectBasicApplicationTests {
 	@Test
-	void contextLoads() {
-	}
+	void loadContext() {
 
+	}
 }
